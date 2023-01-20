@@ -7,14 +7,10 @@ Segundo projeto dos desafios semanais, o #boracodar é um espaço para mostrar n
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="product card preview" src=".github/web.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
